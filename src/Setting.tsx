@@ -19,8 +19,8 @@ const Settings = ({ navigation }) => {
 
       <View style={styles.profileSection}>
         <Image source={require('./assets/berkemm.png')} style={styles.profileImage} />
-        <Text style={styles.profileName}>Sikik Berke</Text>
-        <Text style={styles.profileEmail}>31berkem31@gmail.com</Text>
+        <Text style={styles.profileName}>Berke</Text>
+        <Text style={styles.profileEmail}>berke1@gmail.com</Text>
         <TouchableOpacity style={styles.changeAvatarButton}>
           <Text style={styles.editProfileText}>Change Avatar</Text>
         </TouchableOpacity>
