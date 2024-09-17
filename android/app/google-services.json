@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80241812727",
+    "project_id": "dermai-858a4",
+    "storage_bucket": "dermai-858a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80241812727:android:8e61ecf70a0ba691749ff2",
+        "android_client_info": {
+          "package_name": "com.dermai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxD_m_d518HCXdFcpr8f-n-WqyU1WrBZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
